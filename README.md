@@ -6,6 +6,7 @@ ENUNCIADO DE LA TAREA:
 Vamos a realizar una página donde podamos ver la carta de cocktails que disponemos en nuestro nuevo local de moda, el Marga&Rita. Esta página será una SPA en la que tendremos que implementar unas rutas concretas:
 
 ●	La página inicial siempre será la de HOME. Aquí podremos ver todos los cocktails en formato reducido.
+
 ●	Tenemos una página donde veremos información acerca de nosotros (ABOUT), los nuevos dueños del local (podéis poner lo que queráis, en el ejemplo hay texto “lorem ipsum”).
 
  
@@ -19,6 +20,7 @@ Lo mismo va ocurrir cuando intentemos acceder a algún cocktail que pongamos man
 ACLARACIONES EL ENUNCIADO:
 
 ●	La API para obtención de datos: https://www.thecocktaildb.com/api/json/v1/1/search.php?s=
+
 ●	Los enlaces los tendréis que hacer con  ReactRouter.
 
 ●	Necesitaremos en total 4 páginas: 
