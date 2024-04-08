@@ -24,13 +24,21 @@ ACLARACIONES EL ENUNCIADO:
 ●	Los enlaces los tendréis que hacer con  ReactRouter.
 
 ●	Necesitaremos en total 4 páginas: 
+
 ○	HOME, para ver toda la lista de cocktails.
+
 ○	ABOUT, para ver información sobre los dueños y demás.
+
 ○	ERROR, para mostrar cuando no se encuentra la página solicitada.
+
 ○	COCTAIL, para ver la información detallada de cada cocktail.
 
 ●	Necesitaremos en total 4 componentes:
+
 ○	NAVBAR, la barra de navegación para el título y los enlaces a diferentes páginas. Estará visible siempre en cualquier página en la que estemos.
+
 ○	COCKTAIL-LIST, para ver/mostrar todos los cocktails en formato pequeño.
+
 ○	COCKTAIL, se utilizará para crear cada una de las miniaturas de los cocktails.
-○	LOADING, este componente se visualiza mientras estemos pidiendo los datos de los cocktails. Mientras se esté haciendo la petición de datos a la API (muy poco tiempo) se visualiza un div que tiene una clase especial que renderiza un pequeño efecto. El código para ese componente es este:
+
+○	LOADING, este componente se visualiza mientras estemos pidiendo los datos de los cocktails. Mientras se esté haciendo la petición de datos a la API (muy poco tiempo) se visualiza un div que tiene una clase especial que renderiza un pequeño efecto. El código para ese componente es este
