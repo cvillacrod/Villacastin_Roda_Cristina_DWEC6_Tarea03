@@ -1,6 +1,6 @@
 <h1>DWEC06 - Tarea 03</h1
 
-<h3>ENUNCIADO DE LA TAREA:</h3>
+<h2>ENUNCIADO DE LA TAREA:</h2>
 
 
 Vamos a realizar una página donde podamos ver la carta de cocktails que disponemos en nuestro nuevo local de moda, el Marga&Rita. Esta página será una SPA en la que tendremos que implementar unas rutas concretas:
